@@ -5,6 +5,5 @@ for(let i = 2; i < number; i++) {
    break;
   } else {
    console.log("true");
-   break;
   }
 }
